@@ -1,0 +1,47 @@
+#encabezado{
+    background-color: aquamarine;
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#navegacion{
+    background-color: aquamarine;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#contenido{
+    display: flex;
+    flex-direction: row;
+}
+
+#contenido_pagina{
+    background-color: aquamarine;
+    height: 600px;
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#seccion_principal{
+    background-color: aquamarine;
+    height: 600px;
+    width: 1700px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#pie_pagina{
+    background-color: aquamarine;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
