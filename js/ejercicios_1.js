@@ -30,3 +30,6 @@ console.log("Es menor de edad");
 // validar que la edad solo sean numeros
 // validar que la fecha de nacimiento reciba letras y numeros ejemplo
 // 02/05/2021.
+
+
+
